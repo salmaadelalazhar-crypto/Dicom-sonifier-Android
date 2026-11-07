@@ -1,0 +1,8 @@
+# Python packages bundled into the Android APK (the real list lives in buildozer.spec -> requirements)
+kivy==2.3.0
+numpy
+pydicom
+pyjnius
+arabic_reshaper
+python-bidi==0.4.2
+six
